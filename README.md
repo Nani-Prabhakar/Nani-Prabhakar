@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nani-prabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="nani-prabhakar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nani prabhakar" target="blank"><img src="https://img.shields.io/twitter/follow/nani prabhakar?logo=twitter&style=for-the-badge" alt="nani prabhakar" /></a> </p>
+<p align="left"> <a href="https://x.com/Nani_Prabhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/nani prabhakar?logo=twitter&style=for-the-badge" alt="nani prabhakar" /></a> </p>
 
 - 🔭 I’m currently working on [Dev Hub](https://github.com/Nani-Prabhakar/DevHub)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN stack,data structures and algorithms**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nani-prabhakar-038618255/**
+- 📫 How to reach me **nanibramhasamudram@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
