@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nani prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nani prabhakar" height="30" width="40" /></a>
+<a href="https://x.com/Nani_Prabhakar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="nani prabhakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nani prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nani prabhakar" height="30" width="40" /></a>
-<a href="https://fb.com/nani prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nani prabhakar" height="30" width="40" /></a>
-<a href="https://instagram.com/nani prabhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nani prabhakar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nani.prabhakar.315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nani prabhakar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_nani_prabhakar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nani prabhakar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/_nani_prabhakar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_nani_prabhakar__/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/nanibramhact84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nanibramhact84/" height="30" width="40" /></a>
 </p>
