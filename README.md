@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Nani Prabhakar</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nani-prabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="nani-prabhakar" /> </p>
+
+<p align="left"> <a href="https://x.com/Nani_Prabhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/nani prabhakar?logo=twitter&style=for-the-badge" alt="nani prabhakar" /></a> </p>
+
+- 🔭 I’m currently working on [Dev Hub](https://github.com/Nani-Prabhakar/DevHub)
+
+- 🌱 I’m currently learning **Back-End Devlopment**
+
+- 💬 Ask me about **MERN stack,data structures and algorithms**
+
+- 📫 How to reach me **nanibramhasamudram@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nani-prabhakar-038618255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nani_Prabhakar_) 
@@ -10,10 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nani-Prabhakar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani-Prabhakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nani-Prabhakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nani-Prabhakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in ) -->
