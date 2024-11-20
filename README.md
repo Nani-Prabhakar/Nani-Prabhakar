@@ -1,33 +1,4 @@
-<h1 align="center">Hello👋 <a href="https://github.com/Nani-Prabhakar/" target="_blank">
-Nani Prabhakar</a></h1>
-<div align="center">
-  <!-- <img src ="./banner.png" /> -->
-  
-</div>
 
- <br/>
- 
-## 👨🏻‍💻 About Me:
-
-A technology-enthusiastic especially in web and android development
-
-<img src="./line.gif" width="100%" alt="snake"/>
- <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
-
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-<!-- - 🙋‍♂️ All about me is at **[My Website](https://nagarjuna.vercel.app/)** -->
-
-- 🔭 I’m currently working on `different things`.
-
-- 🌱 I’m currently learning `Native Android Development`
-
-<!-- - 💬 Ask me about anything -->
-
-- 👨‍💻 Life Hack: Learn and :fire: and share :tada:
-
-- ⚡ Fun fact: I don't love to code
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nani_prabhakar_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nani-prabhakar-038618255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nani_Prabhakar_) 
