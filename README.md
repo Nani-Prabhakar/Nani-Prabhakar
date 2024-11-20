@@ -1,17 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nani Prabhakar</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-
-
-<p align="left"> <a href="https://x.com/Nani_Prabhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/nani prabhakar?logo=twitter&style=for-the-badge" alt="nani prabhakar" /></a> </p>
-
-- 🔭 I’m currently working on [Dev Hub](https://github.com/Nani-Prabhakar/DevHub)
-
-- 🌱 I’m currently learning **Back-End Devlopment**
-
-- 💬 Ask me about **MERN stack,data structures and algorithms**
-
-- 📫 How to reach me **nanibramhasamudram@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nani-prabhakar-038618255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nani_Prabhakar_) 
