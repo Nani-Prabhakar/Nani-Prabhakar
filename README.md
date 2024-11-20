@@ -1,17 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nani Prabhakar</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nani-prabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="nani-prabhakar" /> </p>
-
-<p align="left"> <a href="https://x.com/Nani_Prabhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/nani prabhakar?logo=twitter&style=for-the-badge" alt="nani prabhakar" /></a> </p>
-
-- 🔭 I’m currently working on [Dev Hub](https://github.com/Nani-Prabhakar/DevHub)
-
-- 🌱 I’m currently learning **Node.js,Express.js**
-
-- 💬 Ask me about **MERN stack,data structures and algorithms**
-
-- 📫 How to reach me **nanibramhasamudram@gmail.com**
 
 
 ## 🌐 Socials:
