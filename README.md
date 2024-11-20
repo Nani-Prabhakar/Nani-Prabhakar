@@ -16,7 +16,7 @@ A technology-enthusiastic especially in web and android development
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagarjuna0033&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjuna0033" /> </p>
 
 
-<img  src="https://amonigel.com/wp-content/uploads/2022/06/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media" height="290px" align="right" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website](https://nagarjuna.vercel.app/)** -->
 
